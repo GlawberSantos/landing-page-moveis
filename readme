@@ -11,13 +11,9 @@ Praticar estruturação de páginas web, semântica HTML e estilização com CSS
 
 ## 📸 Preview
 
-<<<<<<< HEAD
 <p align="center">
-  <img src="imagens/preview.png" width="600">
+  <img src="images/preview.png" width="600">
 </p>
-=======
-<img src="images/preview.png" width="600">
->>>>>>> 93c3bf4 (chore: rename folder step 1)
 
 ## ▶️ Como executar
 1. Clone o repositório
